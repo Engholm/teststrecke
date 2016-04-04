@@ -1,2 +1,2 @@
 # teststrecke
-Just a test to get warm with GitHub
+Just a test to get into GitHub
